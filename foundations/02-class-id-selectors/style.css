@@ -1,0 +1,23 @@
+.firstParagraph{
+  background:lightpink  ;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+
+}
+#firstId {
+  color: blue;
+  font-size: 36px;
+}
+.coolerParagraph {
+  background:lightpink;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+  font-size: 24px;
+}
+#secondId {
+  background: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+.evenCoolerParagraph {
+  background:lightpink;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
